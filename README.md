@@ -1,5 +1,12 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 
+### Due to lack of AWS credits, deployment has been haulted. Instead, here's a demo vid
+
+
+https://github.com/user-attachments/assets/c5d71922-1a80-4aa8-a6c8-375aff545090
+
+
+
 ### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
 ```ini
